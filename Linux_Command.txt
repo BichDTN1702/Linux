@@ -1,8 +1,0 @@
-Anh gửi một số keycode liên quan đến việc investigate môi trường nhé.
-1. Lệnh mô tả về các command: man xxxx
-2. Thao tác với file:
-touch, cat, grep, locate, vim, tail, wc, cut, copy, mv, rm, 
-3. Lệnh ls 
-- Tìm hiểu thông tin về lệnh  này như timestamp, phân quyền
-4. shell script (Nên tìm hiểu nếu có time)
-
